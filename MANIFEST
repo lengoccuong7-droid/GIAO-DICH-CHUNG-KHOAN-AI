@@ -1,0 +1,13 @@
+Files included:
+- requirements.txt
+- README.md
+- config.py
+- modules/__init__.py
+- modules/data_loader.py
+- modules/indicators.py
+- modules/decision_engine.py
+- modules/market_analysis.py
+- modules/backtest.py
+- modules/tab5_excel.py
+- app.py
+- tests/test_smoke.py
